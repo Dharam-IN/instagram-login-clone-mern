@@ -106,7 +106,7 @@ main.mainSec {
 }
 
 /**username text**/
-.log-in-form input[type="email"] {
+.log-in-form input[type="text"] {
     margin-bottom:0.5rem ;
 }
 /**placeholder for text fields**/
