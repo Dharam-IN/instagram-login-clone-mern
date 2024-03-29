@@ -30,7 +30,7 @@ npm install
 Create a .env file in the backend directory and add the following environment variables:
 ## Preview
 
-![Password Generator Preview](/Screenshots/preview.png)
+![Password Generator Preview](./Screenshots/preview.png)
 MONGO_URI=your_mongodb_uri
 
 Replace your_mongodb_uri with your MongoDB connection URI.
